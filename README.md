@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, Waira Restrepo </h1>
+<h3 align="center">A passionate developer of frontend from Colombia </h3>
+<p align="center" dir="auto" ><img src="https://tenor.com/es-US/view/welcome-gif-22721984" width="80%"></img></p>
+
+<h1 align="center"> Social Media: </h1>
+
 # 💫 About Me:
 Hello and welcome to my GitHub profile!<br><br>I'm a passionate programmer on a constant journey of learning and growth. My insatiable thirst for knowledge and desire to overcome challenges keeps me always on the move, exploring new technologies and taking on exciting projects.<br><br>My philosophy is based on the premise that every line of code is an opportunity to learn something new and improve. I'm always excited to face new problems, as I see in each obstacle a chance to expand my skills and perspectives.<br><br>One of the things I enjoy the most is teamwork. I firmly believe in the power of collaboration, which can lead to amazing results. My ability to communicate effectively and my focus on achieving goals ensure that every project I get involved in is a collective success.<br><br>If you're looking for someone who is not only a skilled programmer but also a dedicated and enthusiastic collaborator, you're in the right place. I'm ready to take on new challenges and create solutions that make a difference! Feel free to contact me if you're interested in collaborating on exciting projects.<br><br>Let's together turn ideas into reality! 
 
