@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, Waira Restrepo </h1>
 <p align="center" dir="auto" ><img src="https://lh3.googleusercontent.com/IozlKJUKG_i_NDnns4Tz49XuAivQDNbhy8VDYa6BUOzM5YbLlVMBZTALbfNebZ4SquE06fU_U88xy7O2O5pduOj_vF3Vb1J_9xsyzBjVmbro" width="80%"></img></p>
 
 # 💫 About Me:
