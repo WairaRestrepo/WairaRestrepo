@@ -2,8 +2,7 @@
 # 💫 About Me:
 Hello and welcome to my GitHub profile!<br><br>I'm a passionate programmer on a constant journey of learning and growth. 
 My philosophy is based on the premise that every line of code is an opportunity to learn something new and improve. I'm always excited to face new problems, as I see in each obstacle a chance to expand my skills and perspectives.<br><br>One of the things I enjoy the most is teamwork.
-<br><br>
- I'm ready to take on new challenges and create solutions that make a difference! Feel free to contact me if you're interested in collaborating on exciting projects.<br><br>Let's together turn ideas into reality! 
+
 
 
 ## 🌐 Socials:
